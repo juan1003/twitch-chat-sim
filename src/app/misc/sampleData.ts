@@ -1,0 +1,72 @@
+export const colors = [
+    "text-red-500",
+    "text-yellow-500",
+    "text-green-500",
+    "text-blue-500",
+    "text-indigo-500",
+    "text-purple-500",
+    "text-pink-500",
+    "text-orange-500",
+    "text-amber-500",
+    "text-lime-500",
+    "text-emerald-500",
+    "text-teal-500",
+    "text-cyan-500",
+    "text-sky-500",
+    "text-violet-500",
+    "text-fuchsia-500",
+    "text-rose-500"
+  ]
+  ;
+
+export const usernames = [
+    "LunarLion",
+    "SunnySkye",
+    "MintyMocha",
+    "ZiggyZebra",
+    "RubyRose",
+    "FrostyFox",
+    "LuckyLola",
+    "CosmicCat",
+    "BlazeBee",
+    "JazzyJade",
+    "NovaNinja",
+    "SparkyStar",
+    "CocoCookie",
+    "RemyRabbit",
+    "PixelPanda",
+    "MistyMoon",
+    "SageSparrow",
+    "CherryCharm",
+    "LeoLemon",
+    "RoryRacer",
+    "BreezyBlue",
+    "TobyTiger",
+    "PennyPeach",
+    "ZaraZest",
+    "FinnFish"
+  ]
+  ;
+
+export const messages = [
+    "Hey, how are you doing?",
+    "I'm good, thanks. Just finished a project for work.",
+    "Nice, congrats! What was it about?",
+    "It was a website for a local bakery. They wanted something simple and elegant.",
+    "Sounds cool. Do you have a link to show me?",
+    "Sure, here you go: https://example.com/bakery",
+    "Wow, it looks amazing! You did a great job.",
+    "Thank you, I appreciate it. It was fun to work on.",
+    "So, what are you up to now?",
+    "Not much, just relaxing at home. Maybe watch some Netflix later.",
+    "Any recommendations? I'm looking for something new to watch.",
+    "Have you seen The Queen's Gambit? It's a mini-series about chess and it's really good.",
+    "Oh, I've heard of it. Is it worth watching?",
+    "Definitely, it's one of the best shows I've seen in a while. The acting, the story, the cinematography, everything is top-notch.",
+    "Okay, you convinced me. I'll give it a try.",
+    "Let me know what you think of it. I'm sure you'll love it.",
+    "Will do. By the way, are you free this weekend?",
+    "Yeah, why do you ask?",
+    "Do you want to hang out? Maybe go to the park or grab a coffee?",
+    "Sure, that sounds good. I miss seeing you in person."
+  ]
